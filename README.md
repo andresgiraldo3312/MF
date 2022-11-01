@@ -2,7 +2,7 @@
 Matrix factorization
 
 
-
+<pre>
 @article{rivera2021missing,
   title={Missing data estimation in a low-cost sensor network for measuring air quality: A case study in Aburr{\'a} Valley},
   author={Rivera-Mu{\~n}oz, Le{\'o}n M and Gallego-Villada, Juan D and Giraldo-Forero, Andr{\'e}s F and Martinez-Vargas, Juan D},
@@ -13,4 +13,4 @@ Matrix factorization
   year={2021},
   publisher={Springer}
 }
-
+</pre>
