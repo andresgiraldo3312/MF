@@ -1,6 +1,6 @@
-# MF
-Matrix factorization
+# Matrix factorization
 
+This repository contains the necessary code to reproduce the models for our paper title "Missing data estimation in a low-cost sensor network for measuring air quality: A case study in Aburrá Valley". This paper is available [Water, Air, & Soil Pollution](https://link.springer.com/article/10.1007/s11270-021-05363-1).
 
 <pre>
 @article{rivera2021missing,
