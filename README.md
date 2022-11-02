@@ -2,6 +2,10 @@
 
 This repository contains the necessary code to reproduce the model for our paper title "Missing data estimation in a low-cost sensor network for measuring air quality: A case study in Aburrá Valley". This paper is available [Water, Air, & Soil Pollution](https://link.springer.com/article/10.1007/s11270-021-05363-1).
 
+
+## Citation
+If you use this code in a scientific publication, we would appreciate citations to the following paper:
+
 <pre>
 @article{rivera2021missing,
   title={Missing data estimation in a low-cost sensor network for measuring air quality: A case study in Aburr{\'a} Valley},
